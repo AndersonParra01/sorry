@@ -1,0 +1,13 @@
+/* En el archivo styles.css */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#myButton {
+  margin-top: 20px;
+}
